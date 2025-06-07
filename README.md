@@ -69,6 +69,7 @@ Place the file in the project root directory.
 Run the Jupyter notebook to train the model.
 
 Save the model and tokenizer as model.h5 and tokenizer.pkl.
+
 5.Start the FastAPI Server
 uvicorn app:app --reload
 
