@@ -23,7 +23,8 @@ Fake News Prediction
 ![image](https://github.com/user-attachments/assets/8c84c81a-3a11-45f9-83b9-aa777052cc9e)
 Real News Prediction
 
-![image](https://github.com/user-attachments/assets/22c986bf-8325-422e-a08e-cb96e536ccaa)
+![image](https://github.com/user-attachments/assets/cd15ed6e-c9cb-4ad8-9a6e-131f3174224d)
+
 
 
 
